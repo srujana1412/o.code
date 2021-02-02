@@ -1,0 +1,13 @@
+list1=[1,2,4]
+list2=["star","moon","night"]
+list1.append(14)
+list2.append("sky")
+print(list1)
+print(list2)
+myList= ("set","dictionary")
+print(myList[0])
+print(len(myList))
+myDict={"biology":"easy","mathematics":"hard","physics":"moderate"}
+del myDict["biology"]
+print(myDict)
+
